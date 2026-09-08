@@ -1,36 +1,194 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Outset Studio — Landing Page
 
-## Getting Started
+Transforming empty spaces into business-driving experiences.
 
-First, run the development server:
+<p align="center">
+  <a href="https://landing-page-wgme.onrender.com">
+    <img src="./public/images/hero-space.png" alt="Outset Studio Landing Page" width="900" />
+  </a>
+</p>
 
-```bash
+<p align="center">
+  A modern, responsive landing page built for Outset Studio with a premium visual experience and responsive design.
+</p>
+
+<p align="center">
+  <a href="https://landing-page-wgme.onrender.com">🌐 Live Demo</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/kunalhoonmai/Landing-Page">💻 GitHub Repository</a>
+</p>
+
+✨ Overview
+
+Outset Studio is a modern creative studio landing page designed around the idea of transforming empty spaces into distinctive, business-driving experiences.
+
+The website combines strong visual design, responsive layouts, elegant typography, and clear calls-to-action to create a premium digital presence.
+
+🚀 Features
+
+🎨 Modern and minimal visual design
+
+📱 Fully responsive across desktop, tablet, and mobile
+
+🖼️ Full-screen hero experience
+
+🧭 Responsive desktop and mobile navigation
+
+🪟 Glassmorphism-inspired mobile menu
+
+⚡ Built with Next.js for a fast web experience
+
+🎯 Clear and accessible call-to-action elements
+
+✨ Smooth visual transitions and hover interactions
+
+🌑 Premium dark visual aesthetic
+
+♻️ Component-based React architecture
+
+🛠️ Built With
+
+Frontend
+
+Next.js
+
+React
+
+TypeScript
+
+Tailwind CSS
+
+Material UI
+
+Emotion
+
+Development
+
+ESLint
+
+Git
+
+GitHub
+
+🎯 Design
+
+The landing page focuses on a premium editorial-style aesthetic with:
+
+Full-screen architectural imagery
+
+Dark image overlays
+
+High-contrast typography
+
+Minimal navigation
+
+Strong visual hierarchy
+
+Responsive spacing and typography
+
+Clean call-to-action placement
+
+The design is optimized to maintain the same visual character across different screen sizes.
+
+📱 Responsive Experience
+
+The interface adapts to different devices.
+
+Desktop
+
+Full navigation
+
+Large hero typography
+
+Wide content layout
+
+Desktop CTA arrangement
+
+Mobile
+
+Compact header
+
+Mobile navigation menu
+
+Touch-friendly controls
+
+Responsive typography
+
+Full-screen hero experience
+
+💻 Getting Started
+
+Clone the repository:
+
+git clone https://github.com/kunalhoonmai/Landing-Page.git
+
+Navigate to the project:
+
+cd Landing-Page
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+http://localhost:3000
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🏗️ Production Build
 
-## Learn More
+Create a production build:
 
-To learn more about Next.js, take a look at the following resources:
+npm run build
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Start the production server:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+npm start
 
-## Deploy on Vercel
+🌐 Live Demo
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🚀 View Live Website
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The project is deployed and publicly accessible through Render.
+
+🔮 Future Improvements
+
+About section
+
+Services section
+
+Portfolio / Our Work section
+
+Process section
+
+Industries section
+
+Contact section
+
+Scroll-based animations
+
+Advanced micro-interactions
+
+SEO optimization
+
+Open Graph metadata
+
+Performance optimization
+
+👨‍💻 Author
+
+Kunal Sahu
+
+Frontend Developer passionate about creating modern, responsive, and user-focused web experiences.
+
+Tech Stack:
+React · Next.js · TypeScript · Tailwind CSS · Material UI
+
+⭐ If you like this project, consider giving the repository a star!
+
+<p align="center">
+  Built with ❤️ using Next.js
+</p>
