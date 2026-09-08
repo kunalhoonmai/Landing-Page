@@ -142,35 +142,6 @@ Start the production server:
 
 npm start
 
-🌐 Live Demo
-
-🚀 View Live Website
-
-The project is deployed and publicly accessible through Render.
-
-🔮 Future Improvements
-
-About section
-
-Services section
-
-Portfolio / Our Work section
-
-Process section
-
-Industries section
-
-Contact section
-
-Scroll-based animations
-
-Advanced micro-interactions
-
-SEO optimization
-
-Open Graph metadata
-
-Performance optimization
 
 👨‍💻 Author
 
