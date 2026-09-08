@@ -3,12 +3,6 @@ Outset Studio — Landing Page
 Transforming empty spaces into business-driving experiences.
 
 <p align="center">
-  <a href="https://landing-page-wgme.onrender.com">
-    <img src="./public/images/hero-space.png" alt="Outset Studio Landing Page" width="900" />
-  </a>
-</p>
-
-<p align="center">
   A modern, responsive landing page built for Outset Studio with a premium visual experience and responsive design.
 </p>
 
