@@ -1,11 +1,9 @@
-import Button from "@mui/material/Button";
+import Hero from "@/components/sections/Hero";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen items-center justify-center">
-      <Button variant="contained">
-        MUI is working
-      </Button>
+    <main className="bg-[#1d1d1d]">
+      <Hero />
     </main>
   );
 }

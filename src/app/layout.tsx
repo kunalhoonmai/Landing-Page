@@ -4,8 +4,9 @@ import "./globals.css";
 import ThemeProvider from "@/components/providers/ThemeProvider";
 
 export const metadata: Metadata = {
-  title: "Landing Page",
-  description: "Landing page project",
+  title: "Outset Studio",
+  description:
+    "Outset Studio transforms empty spaces into business-driving experiences.",
 };
 
 export default function RootLayout({

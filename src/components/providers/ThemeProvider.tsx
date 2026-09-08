@@ -12,7 +12,7 @@ export default function ThemeProvider({
   children: React.ReactNode;
 }) {
   return (
-    <AppRouterCacheProvider>
+    <AppRouterCacheProvider options={{ enableCssLayer: true }}>
       <MuiThemeProvider theme={theme}>
         <CssBaseline />
         {children}
